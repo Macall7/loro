@@ -41,6 +41,7 @@
 10. Add bootstrap UI Framework
     1. npm install react-bootstrap bootstrap
     2. update App.js
-11.
-12.
-13.
+11. Manage State By Reducer Hook
+    i. create Rating component
+    ii. create Product componenet
+    iii. Use rating component in Product component
